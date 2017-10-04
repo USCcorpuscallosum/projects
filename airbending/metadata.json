@@ -1,0 +1,7 @@
+{
+  "title":"Airbending",
+  "description":"motion controlled pollen simulation with Kinect and Open Frameworks",
+  "github":"https://github.com/USCcorpuscallosum/airbending",
+  "exhibition":"Fall 2016",
+  "tags":["software","generative","Kinect","avatar","boid","interactive"]
+}

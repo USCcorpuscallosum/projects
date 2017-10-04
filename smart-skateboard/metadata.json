@@ -1,0 +1,7 @@
+{
+  "title":"Smart Skateboard",
+  "description":"skateboard with turn signals and an LED light",
+  "github":"https://github.com/USCcorpuscallosum/smartskateboard",
+  "exhibition":"Fall 2016",
+  "tags":["IoT","hardware","micro-controller","LED"]
+}

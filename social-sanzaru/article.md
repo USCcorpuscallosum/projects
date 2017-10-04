@@ -1,0 +1,6 @@
+![mixed media installation][splash]
+Social Sanzaru was an immersive installation created from crowdsourced data, asking students to submit a picture they’d like to share: a piece of writing, a picture, and an audio file. It was intended as a physical manifestation of social media, exploring the way we consume bite sized pieces of human experience. The meeting room in [Blackstone Launchpad](http://incubate.usc.edu/tag/blackstone-launchpad/) became a space donned by blackout curtains and lit up by white LED lights. Data from each participant in the survey were collected and constructed into a cube that contained each person’s chosen picture and text. The audio files, in turn, were strung together in one continuous track that played in the background. The audio files ranged from familiar songs, lines from movies, and strange noises, edited together to instigate a feeling of connection with the media cubes. 
+![mixed media installation][secondary]
+
+[splash]:img/sanzaru-splash.jpg
+[secondary]:img/secondary.jpg
